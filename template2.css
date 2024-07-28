@@ -1,0 +1,15 @@
+.template {
+    background-color: #d4e4bc;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.template h1 {
+    color: #00796b;
+}
+
+.template p {
+    font-size: 18px;
+    color: #004d40;
+}
